@@ -1,0 +1,23 @@
+{
+  "name": "ideaman",
+  "version": "1.0.0",
+  "description": "idea wall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklee100/ideaman.git"
+  },
+  "author": "nicklee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicklee100/ideaman/issues"
+  },
+  "homepage": "https://github.com/nicklee100/ideaman#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
